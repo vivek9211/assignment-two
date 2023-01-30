@@ -1,0 +1,9 @@
+.main-div {
+  border: 2px solid black;
+  margin-top: 200px;
+  position: relative;
+}
+.btn-div {
+  display: flex;
+  justify-content: space-between;
+}
